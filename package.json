@@ -18,19 +18,19 @@
     "url": "https://github.com/goitacademy/goit-js-hw-11/issues"
   },
   "dependencies": {
-    "axios": "^1.6.7",
     "gallery": "^1.0.2",
     "json": "^11.0.0",
     "key": "^0.1.11",
     "loadash": "^1.0.0",
     "modern-normalize": "^1.1.0",
-    "notiflix": "^3.2.7",
     "pixabay": "^0.0.1",
     "simplelightbox": "^2.14.2",
     "throttle": "^1.0.3"
   },
   "devDependencies": {
     "@parcel/transformer-sass": "^2.8.0",
+    "axios": "^1.6.7",
+    "notiflix": "^3.2.7",
     "parcel": "^2.8.0",
     "parcel-reporter-clean-dist": "^1.0.4",
     "posthtml-include": "^1.7.4"
