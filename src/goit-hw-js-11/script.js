@@ -16,7 +16,7 @@ async function handleSearch(event) {
   event.preventDefault();
   currentPage = 1;
   gallery.innerHTML = ''; // Clear gallery
-  
+
   const searchQuery = event.target.searchQuery.value;
   await fetchImages(searchQuery);
 }
