@@ -1,3 +1,3 @@
-import Notiflix from '../index.d';
+import Notiflix from '..';
 export = Notiflix;
 export as namespace Notiflix;
